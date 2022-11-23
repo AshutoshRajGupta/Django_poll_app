@@ -1,1 +1,1 @@
-# Django_poll_app
+# Django_polling_website
